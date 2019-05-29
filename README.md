@@ -1,5 +1,5 @@
 # Intelligent-chatbot
-An intelligent chatbot - Users can ask questions about their favourite movies and get answers or suggestions
+An intelligent chatbot for answering questions about common healthy eating habits and also providing suggestions to the users
 
 
 # Technology stack used:
