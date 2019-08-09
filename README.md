@@ -1,5 +1,5 @@
 # Intelligent-chatbot
-An intelligent chatbot for answering questions about common healthy eating habits and also providing suggestions to the users
+An intelligent chatbot for answering questions about a movie, fetching information from IMDb APIs. Providing users with suggestions best on their queries.
 
 
 # Technology stack used:
